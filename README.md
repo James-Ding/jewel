@@ -1,4 +1,4 @@
-Evented I/O for V8 javascript.
+Javascript Embedding Webserver on Eventdriven Linux.
 ===
 
 ### To build:
